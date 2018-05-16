@@ -1,8 +1,0 @@
-version: '3'
-
-services:
-  webapplication2testi:
-    image: webapplication2testi
-    build:
-      context: .\WebApplication2testi
-      dockerfile: Dockerfile
